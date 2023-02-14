@@ -1,0 +1,1 @@
+print(int(str(bin(int(input("Enter a number: "))))[:1:-1],2))
